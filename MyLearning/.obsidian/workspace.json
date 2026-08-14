@@ -11,14 +11,14 @@
             "id": "c0f65ce2d52189a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "技术美术/技术美术课程构图和打灯_视频复盘.md",
-                "mode": "source",
-                "source": false
+                "aFile": "MyLearning/.obsidian/plugins/obsidian-git/data.json",
+                "bFile": "MyLearning/.obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "技术美术课程构图和打灯_视频复盘"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -161,7 +161,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术美术/技术美术课程构图和打灯_视频复盘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,10 +200,10 @@
   },
   "active": "c0f65ce2d52189a8",
   "lastOpenFiles": [
+    "技术美术/技术美术课程构图和打灯_视频复盘.md",
     "技术美术/ShaderToy/ShaderToy 迭代域扭曲与倒距离发光代码解析.md",
     "AIGC/短剧视觉创作/光影.md",
     "AIGC/短剧视觉创作/4种神级构图法.md",
-    "技术美术/技术美术课程构图和打灯_视频复盘.md",
     "技术美术/技术美术课程构图和打灯.mp4",
     "技术美术/技术美术课程截图/技术美术课程构图和打灯/33-43-光的传染性.jpg",
     "技术美术/技术美术课程截图/技术美术课程构图和打灯/30-14-避免死黑和过曝.jpg",
