@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1dca2bd4a293e853",
+        "id": "46c738ad358328d5",
         "type": "tabs",
         "children": [
           {
-            "id": "c0f65ce2d52189a8",
+            "id": "842ebc78fed23439",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "MyLearning/.obsidian/plugins/obsidian-git/data.json",
-                "bFile": "MyLearning/.obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "Rhino学习/Rhino 选取与视图快捷键.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Rhino 选取与视图快捷键"
             }
           }
         ]
@@ -161,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Rhino学习/Rhino 选取与视图快捷键.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,23 +169,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "aab4090eb60d6829",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 705.5
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +189,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0f65ce2d52189a8",
+  "active": "842ebc78fed23439",
   "lastOpenFiles": [
-    "技术美术/技术美术课程构图和打灯_视频复盘.md",
-    "技术美术/ShaderToy/ShaderToy 迭代域扭曲与倒距离发光代码解析.md",
+    "AIGC/短剧视觉创作/Codex 视频制作必装的 8 个 Skill.md",
+    "技术美术/Rhino 选取与视图快捷键.md",
+    "Rhino学习/Rhino 选取与视图快捷键.md",
+    "Rhino学习",
+    "AIGC/短剧视觉创作/索引 - AIGC短剧视觉创作.md",
+    "AIGC/短剧视觉创作/传统与AI影视动画制作流程.md",
     "AIGC/短剧视觉创作/光影.md",
+    "技术美术/ShaderToy/ShaderToy 迭代域扭曲与倒距离发光代码解析.md",
+    "ShaderToy.md",
+    "李萨如曲线.md",
+    "数值稳定性.md",
+    "Untitled.canvas",
     "AIGC/短剧视觉创作/4种神级构图法.md",
+    "技术美术/技术美术课程构图和打灯_视频复盘.md",
     "技术美术/技术美术课程构图和打灯.mp4",
     "技术美术/技术美术课程截图/技术美术课程构图和打灯/33-43-光的传染性.jpg",
     "技术美术/技术美术课程截图/技术美术课程构图和打灯/30-14-避免死黑和过曝.jpg",
@@ -218,7 +219,6 @@
     "技术美术/技术美术课程构图和打灯_导图复刻.mmd",
     "技术美术/技术美术课程截图/技术美术课程构图和打灯",
     "技术美术/技术美术课程截图",
-    "AIGC/短剧视觉创作/Codex 视频制作必装的 8 个 Skill.md",
     "技术美术/ShaderToy",
     "技术美术",
     "AIGC/技术美术/ShaderToy/ShaderToy 迭代域扭曲与倒距离发光代码解析.md",
@@ -226,13 +226,9 @@
     "AIGC/技术美术",
     "AIGC/短剧视觉创作/颜色的运用.md",
     "20250428构图和大灯原理.mp4",
-    "Untitled.canvas",
     "2026-08-13.md",
-    "AIGC/短剧视觉创作/传统与AI影视动画制作流程.md",
-    "AIGC/短剧视觉创作/索引 - AIGC短剧视觉创作.md",
     "AIGC/短剧视觉创作/镜头语言与叙事审美设计.md",
     "Welcome.md",
-    "AIGC/短剧视觉创作",
     "create a link.md"
   ]
 }
